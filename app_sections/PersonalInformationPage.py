@@ -7,14 +7,13 @@ class PersonalInformationPage(BasePage):
     def __init__(self, driver):
         super().__init__(driver)
 
-    def editMiddleName(self, middlename, zipcode):
+    def editMiddleName(self, middlename):
         self.click("save_credentials_OKBTN_XPATH")
         self.click("access_device_location_ID")
         self.click("calendar_icon_XPATH")
         self.click("profile_icon_XPATH")
         self.click("personal_informationBTN_XPATH")
         self.type("personal_info_middle_namefield_XPATH", middlename)
-        self.type("personal_info_zip_codefield_XPATH", zipcode)
         ScrollUtil.scrollToTextByAndroidUIAutomator("SAVE", self.driver)
         self.getText("personal_info_successPOPUP_XPATH")
 

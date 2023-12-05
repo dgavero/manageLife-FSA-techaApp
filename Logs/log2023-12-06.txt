@@ -1,0 +1,72 @@
+2023-12-06 00:51:18,497 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 00:51:19,855 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 00:51:20,441 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 00:51:21,148 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 00:51:29,735 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 00:51:31,105 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 00:51:31,770 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 00:51:32,387 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 00:52:25,336 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 00:52:26,603 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 00:52:27,191 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 00:52:27,884 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 00:52:35,518 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 00:52:36,818 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 00:52:37,408 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 00:52:38,102 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 00:52:40,918 - BasePage.py:[37] - [INFO] - Clicking on an Element save_credentials_OKBTN_XPATH
+2023-12-06 00:52:44,643 - BasePage.py:[37] - [INFO] - Clicking on an Element access_device_location_ID
+2023-12-06 00:52:45,586 - BasePage.py:[37] - [INFO] - Clicking on an Element calendar_icon_XPATH
+2023-12-06 00:52:46,901 - BasePage.py:[37] - [INFO] - Clicking on an Element profile_icon_XPATH
+2023-12-06 00:52:47,834 - BasePage.py:[37] - [INFO] - Clicking on an Element personal_informationBTN_XPATH
+2023-12-06 00:52:49,210 - BasePage.py:[53] - [INFO] - Typing in an Element personal_info_middle_namefield_XPATH entered the value as : ['dave']
+2023-12-06 00:52:56,146 - BasePage.py:[70] - [INFO] - Getting text from an element personal_info_successPOPUP_XPATH
+2023-12-06 00:52:56,389 - BasePage.py:[70] - [INFO] - Getting text from an element personal_info_successPOPUP_XPATH
+2023-12-06 01:06:43,368 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 01:06:44,687 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 01:06:45,269 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 01:06:45,908 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 01:06:54,032 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 01:06:55,331 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 01:06:56,023 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 01:06:57,328 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 01:06:59,599 - BasePage.py:[37] - [INFO] - Clicking on an Element save_credentials_OKBTN_XPATH
+2023-12-06 01:07:03,173 - BasePage.py:[37] - [INFO] - Clicking on an Element access_device_location_ID
+2023-12-06 01:07:04,068 - BasePage.py:[37] - [INFO] - Clicking on an Element calendar_icon_XPATH
+2023-12-06 01:07:05,568 - BasePage.py:[37] - [INFO] - Clicking on an Element profile_icon_XPATH
+2023-12-06 01:07:06,482 - BasePage.py:[37] - [INFO] - Clicking on an Element personal_informationBTN_XPATH
+2023-12-06 01:07:08,021 - BasePage.py:[53] - [INFO] - Typing in an Element personal_info_middle_namefield_XPATH entered the value as : ['dave']
+2023-12-06 01:07:14,336 - BasePage.py:[70] - [INFO] - Getting text from an element personal_info_successPOPUP_XPATH
+2023-12-06 01:07:14,546 - BasePage.py:[70] - [INFO] - Getting text from an element personal_info_successPOPUP_XPATH
+2023-12-06 01:08:53,884 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 01:08:55,101 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 01:08:55,749 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 01:08:56,466 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 01:09:04,552 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 01:09:05,826 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 01:09:06,477 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 01:09:07,166 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 01:09:10,537 - BasePage.py:[37] - [INFO] - Clicking on an Element save_credentials_OKBTN_XPATH
+2023-12-06 01:09:14,200 - BasePage.py:[37] - [INFO] - Clicking on an Element access_device_location_ID
+2023-12-06 01:09:15,035 - BasePage.py:[37] - [INFO] - Clicking on an Element calendar_icon_XPATH
+2023-12-06 01:09:16,016 - BasePage.py:[37] - [INFO] - Clicking on an Element profile_icon_XPATH
+2023-12-06 01:09:16,936 - BasePage.py:[37] - [INFO] - Clicking on an Element personal_informationBTN_XPATH
+2023-12-06 01:09:48,520 - BasePage.py:[53] - [INFO] - Typing in an Element personal_info_middle_namefield_XPATH entered the value as : ['dave']
+2023-12-06 01:09:54,010 - BasePage.py:[70] - [INFO] - Getting text from an element personal_info_successPOPUP_XPATH
+2023-12-06 01:09:54,196 - BasePage.py:[70] - [INFO] - Getting text from an element personal_info_successPOPUP_XPATH
+2023-12-06 01:11:30,765 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 01:11:32,050 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 01:11:32,647 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 01:11:33,336 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 01:11:41,383 - BasePage.py:[37] - [INFO] - Clicking on an Element access_location_accept_XPATH
+2023-12-06 01:11:42,670 - BasePage.py:[53] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+2023-12-06 01:11:43,267 - BasePage.py:[53] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
+2023-12-06 01:11:43,903 - BasePage.py:[37] - [INFO] - Clicking on an Element login_loginBTN_XPATH
+2023-12-06 01:11:46,683 - BasePage.py:[37] - [INFO] - Clicking on an Element save_credentials_OKBTN_XPATH
+2023-12-06 01:11:50,249 - BasePage.py:[37] - [INFO] - Clicking on an Element access_device_location_ID
+2023-12-06 01:11:51,116 - BasePage.py:[37] - [INFO] - Clicking on an Element calendar_icon_XPATH
+2023-12-06 01:11:52,185 - BasePage.py:[37] - [INFO] - Clicking on an Element profile_icon_XPATH
+2023-12-06 01:11:53,103 - BasePage.py:[37] - [INFO] - Clicking on an Element personal_informationBTN_XPATH
+2023-12-06 01:11:53,988 - BasePage.py:[53] - [INFO] - Typing in an Element personal_info_middle_namefield_XPATH entered the value as : ['dave']
+2023-12-06 01:11:59,451 - BasePage.py:[70] - [INFO] - Getting text from an element personal_info_successPOPUP_XPATH
+2023-12-06 01:11:59,673 - BasePage.py:[70] - [INFO] - Getting text from an element personal_info_successPOPUP_XPATH
