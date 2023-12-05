@@ -1,8 +1,0 @@
-2023-11-25 23:58:08,470 - BasePage.py:[26] - [INFO] - Clicking on an Element access_location_accept_XPATH
-2023-11-25 23:58:13,555 - BasePage.py:[35] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
-2023-11-25 23:58:18,661 - BasePage.py:[35] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
-2023-11-25 23:58:23,787 - BasePage.py:[26] - [INFO] - Clicking on an Element login_loginBTN_XPATH
-2023-11-25 23:58:34,538 - BasePage.py:[26] - [INFO] - Clicking on an Element access_location_accept_XPATH
-2023-11-25 23:58:39,634 - BasePage.py:[35] - [INFO] - Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : admin@managelife.co
-2023-11-25 23:58:44,732 - BasePage.py:[35] - [INFO] - Typing in an Element login_passfield_XPATH entered the value as : password
-2023-11-25 23:58:49,884 - BasePage.py:[26] - [INFO] - Clicking on an Element login_loginBTN_XPATH

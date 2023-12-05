@@ -1,0 +1,12 @@
+[32mINFO    [0m app_sections.BasePage:BasePage.py:37 Clicking on an Element access_location_accept_XPATH
+[32mINFO    [0m app_sections.BasePage:BasePage.py:53 Typing in an Element login_usernamefield_ACCESSIBILITYID entered the value as : davetechc123@yopmail.com
+[32mINFO    [0m app_sections.BasePage:BasePage.py:53 Typing in an Element login_passfield_XPATH entered the value as : password
+[32mINFO    [0m app_sections.BasePage:BasePage.py:37 Clicking on an Element login_loginBTN_XPATH
+[32mINFO    [0m app_sections.BasePage:BasePage.py:37 Clicking on an Element save_credentials_OKBTN_XPATH
+[32mINFO    [0m app_sections.BasePage:BasePage.py:37 Clicking on an Element access_device_location_ID
+[32mINFO    [0m app_sections.BasePage:BasePage.py:37 Clicking on an Element calendar_icon_XPATH
+[32mINFO    [0m app_sections.BasePage:BasePage.py:37 Clicking on an Element profile_icon_XPATH
+[32mINFO    [0m app_sections.BasePage:BasePage.py:37 Clicking on an Element personal_informationBTN_XPATH
+[32mINFO    [0m app_sections.BasePage:BasePage.py:53 Typing in an Element personal_info_middle_namefield_XPATH entered the value as : ['dave']
+[32mINFO    [0m app_sections.BasePage:BasePage.py:70 Getting text from an element personal_info_successPOPUP_XPATH
+[32mINFO    [0m app_sections.BasePage:BasePage.py:70 Getting text from an element personal_info_successPOPUP_XPATH
